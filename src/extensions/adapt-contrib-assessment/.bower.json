@@ -1,0 +1,27 @@
+{
+  "name": "adapt-contrib-assessment",
+  "version": "2.3.2",
+  "framework": ">=3.2",
+  "homepage": "https://github.com/adaptlearning/adapt-contrib-assessment",
+  "issues": "https://github.com/adaptlearning/adapt_framework/issues/new",
+  "displayName": "Assessment",
+  "extension": "assessment",
+  "description": "An extension which attaches to an article object to group various question components and provide a score with feedback",
+  "main": "/js/adapt-assessmentArticleExtension.js",
+  "keywords": [
+    "adapt-plugin",
+    "adapt-extension"
+  ],
+  "license": "GPLv3",
+  "targetAttribute": "_assessment",
+  "_release": "2.3.2",
+  "_resolution": {
+    "type": "version",
+    "tag": "v2.3.2",
+    "commit": "5584c1b3ac33f403f1afb3dac04df06cc6ab2d8c"
+  },
+  "_source": "git://github.com/adaptlearning/adapt-contrib-assessment.git",
+  "_target": "2.3.2",
+  "_originalSource": "adapt-contrib-assessment",
+  "_direct": true
+}

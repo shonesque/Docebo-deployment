@@ -1,0 +1,26 @@
+{
+  "name": "adapt-contrib-blank",
+  "version": "2.1.0",
+  "framework": ">=3.3",
+  "homepage": "https://github.com/adaptlearning/adapt-contrib-blank",
+  "issues": "https://github.com/adaptlearning/adapt_framework/issues/new",
+  "displayName": "Blank",
+  "component": "blank",
+  "description": "A simple adapt core contributed blank component",
+  "main": "/js/adapt-contrib-blank.js",
+  "keywords": [
+    "adapt-plugin",
+    "adapt-component"
+  ],
+  "license": "GPLv3",
+  "_release": "2.1.0",
+  "_resolution": {
+    "type": "version",
+    "tag": "v2.1.0",
+    "commit": "baf005b4cc41564ba3dca343c43e19c7e713f3e7"
+  },
+  "_source": "git://github.com/adaptlearning/adapt-contrib-blank.git",
+  "_target": "2.1.0",
+  "_originalSource": "adapt-contrib-blank",
+  "_direct": true
+}
