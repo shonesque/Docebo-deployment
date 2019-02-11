@@ -1,5 +1,19 @@
 .accordion-component {
 
+    .component-body-inner{
+        padding-top: 0;
+        font-size: 18px;
+        letter-spacing: 2px;
+        line-height: 1.7;
+    }
+
+    .component-instruction-inner{
+        padding-top: 0;
+        font-size: 18px;
+        letter-spacing: 2px;
+        line-height: 1.7;
+    }
+
     .accordion-item {
         margin-bottom: @item-margin-bottom;
     }
@@ -24,6 +38,7 @@
         color: @item-text-color;
         background-color: @item-color;
         text-decoration: none;
+        text-transform: none;
         width: 100%;
         .dir-rtl & {
             padding-left:inherit;
@@ -79,6 +94,9 @@
         color: @item-body-text-color;
         background-color: @item-body-color;
         display:none;
+        font-size: 16px;
+        letter-spacing: 2px;
+        line-height: 1.7;
     }
 
     .accordion-item-body-inner {
